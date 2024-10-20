@@ -10,7 +10,7 @@ function Logo({ className }: { className?: string }) {
       )}
     >
       <FormInputIcon className="w-6 h-6 mr-2" />
-      Google Forms
+      Formify
     </div>
   );
 }

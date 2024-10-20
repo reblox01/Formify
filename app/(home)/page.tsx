@@ -27,7 +27,7 @@ const features = [
   {
     title: "Seamless Integration",
     description:
-      "Google Forms works seamlessly with other Google products, such as Google Sheets and Google Drive.",
+      "Formify works seamlessly with other Google products, such as Google Sheets and Google Drive.",
     icon: <CogIcon className="w-6 h-6" />,
   },
 ];
@@ -53,7 +53,7 @@ export default function Home({
               <div className="flex flex-col items-center space-y-4 text-center">
                 <div className="space-y-2">
                   <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none">
-                    Get insights quickly, with Google Forms
+                    Get insights quickly, with Formify
                   </h1>
                   <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
                     Easily create and share online forms and surveys, and
@@ -68,10 +68,10 @@ export default function Home({
             <div className="container grid items-center gap-4 px-4 md:px-6 lg:gap-10">
               <div className="space-y-3">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
-                  Why Google Forms?
+                  Why Formify?
                 </h2>
                 <p className="max-w-[700px] text-gray-500 md:text-xl/relaxed">
-                  Trusted by millions of teams worldwide, Google Forms helps you
+                  Trusted by millions of teams worldwide, Formify helps you
                   collect and organize information quickly and efficiently.
                 </p>
               </div>
